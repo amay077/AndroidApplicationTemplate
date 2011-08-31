@@ -1,0 +1,3 @@
+glob:bin/
+glob:gen/
+glob:.DS_Store/
