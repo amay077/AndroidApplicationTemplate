@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">application_name</string>
+    <string name="app_name">My Application</string>
+    <string name="window_title_main">@string/app_name</string>
+    <string name="window_title_pref">Application Preference</string>
     
     <string name="ui_main_menu_menu1">menu1</string>
     <string name="ui_main_menu_menu2">menu2</string>
     <string name="ui_main_menu_preference">preference</string>
+    
+    <string name="pref_category_general">General</string>
+    <string name="pref_item1_title">pref1_title</string>
+    <string name="pref_item1_summary">pref1_summary</string>
+    
 </resources>

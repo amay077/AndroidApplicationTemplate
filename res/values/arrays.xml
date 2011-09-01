@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="pref_item1_entries">
+    <item>1ミリ</item>
+    <item>1メートル</item>
+    <item>1キロ</item>
+  </string-array>
+  <string-array name="pref_item1_entryvalues">
+    <item>1</item>
+    <item>1000</item>
+    <item>1000000</item>
+  </string-array>
+
+</resources>

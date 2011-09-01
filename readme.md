@@ -6,6 +6,7 @@ Androidアプリケーションを作るときに、「これ何度も実装す�
 
 * theme のスケルトン
 * menu のスケルトンと表示
+* preference のスケルトンと表示
 * strings.xml, dimens.xml と統一的な名前付けルール
 
 ----
